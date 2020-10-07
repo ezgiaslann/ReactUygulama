@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Ezgi ASLAN",
+      "salary": "6000",
+      "departman": "Bilişim"
+    },
+    {
+      "id": "unique-2",
+      "name": "Büşra AYVERDİ",
+      "salary": "7000",
+      "departman": "Bilişim"
+    },
+    {
+      "name": "Güşta GERENİZ",
+      "salary": "5500",
+      "departman": "Bilişim",
+      "id": "u3gu04C"
+    },
+    {
+      "name": "Gökçe AKTUĞ",
+      "salary": "4200",
+      "departman": "İnsan Kaynakları",
+      "id": "5hTggn1"
+    }
+  ]
+}
